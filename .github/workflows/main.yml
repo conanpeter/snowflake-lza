@@ -1,4 +1,4 @@
-name: deploy DSTAR
+name: deploy SrAsizD
 
 on:
   push:
